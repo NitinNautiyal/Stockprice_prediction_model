@@ -8,7 +8,7 @@ Create an initial machine learning model and estimate accuracy
 Build a backtesting engine to more accurately measure accuracy
 Improve the accuracy of the model
 
-##TIME SERIES FORECASTING: https://engineering.99x.io/time-series-forecasting-in-machine-learning-3972f7a7a467
+##TIME SERIES FORECASTING: https://engineering.99x.io/time-series-forecasting-in-machine-learning-3972f7a7a467##
 
 File overview:
 
@@ -27,4 +27,6 @@ To follow this project, please install the following locally:
   scikit-learn
 
 2. Data
-  We'll download all of the data during the project, using the yfinance package.
+   
+We'll download all of the data during the project, using the yfinance package.
+
