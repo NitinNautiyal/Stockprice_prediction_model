@@ -21,3 +21,7 @@ This approach ensures that the model has no prior exposure to the prediction dat
 I've used simple random sampling in the past and achieved seemingly accurate results. 
 However, it wasn't until I adopted this alternative approach that I noticed slightly higher errors. 
 Therefore, I believe this method offers a more realistic evaluation of model performance.
+
+**III**
+the model without hyperparameter tuning. if hyperparamter tuning is done, when backtesting we no longer need to look for the best parameters. 
+In contrast to cross-validation which requires more tuning
