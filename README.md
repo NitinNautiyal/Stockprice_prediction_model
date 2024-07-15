@@ -1,5 +1,6 @@
 # Stockprice_prediction_model
-##TIME SERIES FORECASTING: https://engineering.99x.io/time-series-forecasting-in-machine-learning-3972f7a7a467##
+Time series Forecasting: https://engineering.99x.io/time-series-forecasting-in-machine-learning-3972f7a7a467
+scikit.ensemble learn :https://towardsdatascience.com/ensemble-learning-using-scikit-learn-85c4531ff86a
 
 # Project Overview
 
